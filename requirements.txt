@@ -1,4 +1,9 @@
-pandas
+Flask
+gunicorn
+Jinja2
+Werkzeug
 numpy
-flask
-sklearn
+pandas
+scipy
+scikit-learn
+matplotlib
